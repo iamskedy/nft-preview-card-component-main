@@ -1,4 +1,19 @@
 # nft-preview-card-component-main
+
+Hello 🖐😀 .
+This is Shubham, I welcome you to my git hub repository.
+
+I hope you enjoy this.
+
+
+ 
+This is a nft-preview-card-component which is made with the help of HTML,CSS Only.
+-Used CSS Flex to organise it to the best posibilty
+-It consists of basic hovering effect
+     -Hovering effect on the image that change the overlay color upto some transparency
+     -Hovering on the two texts as well 
+     
+
 LIVE [Link](https://iamskedy.github.io/nft-preview-card-component-main/) for demo of this Project 
 🖱🖲💻
 ![ezgif-2-d9e3c8894b](https://user-images.githubusercontent.com/95680495/158103482-9ef6b2f7-33d2-43d2-8d4a-bb3aec5492b3.gif)
