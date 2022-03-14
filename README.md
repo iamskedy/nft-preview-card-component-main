@@ -23,11 +23,12 @@ T**his is a very Basic Practice project** (_Just  Practicing  for improving my s
      
      
 
-LIVE [Link](https://iamskedy.github.io/nft-preview-card-component-main/) for demo of this Project 
+LIVE👉 [Link](https://iamskedy.github.io/nft-preview-card-component-main/) for demo of this Project 
 🖱🖲💻
 
 
 
 
-![ezgif-2-d9e3c8894b](https://iamskedy.github.io/nft-preview-card-component-main/)
+![ezgif-2-d9e3c8894b](https://user-images.githubusercontent.com/95680495/158104507-562bf0b3-2350-4559-8b53-65d8036af74f.gif)
+
 
