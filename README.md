@@ -14,7 +14,6 @@ T**his is a very Basic Practice project** (_Just  Practicing  for improving my s
 
 -Used **CSS Flex** to organise it to the best posibilty
 
-
 -It consists of basic **hovering** effect
 
      -Hovering effect on the image that change the overlay color upto some transparency
